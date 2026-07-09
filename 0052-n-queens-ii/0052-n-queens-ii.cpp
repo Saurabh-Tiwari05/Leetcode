@@ -24,27 +24,25 @@ public: bool safe(int row, int col, int n, vector<string>& board) {
         return true;
     }
 
-    void solve(int row, int n, vector<string>& board, vector<vector<string>>& result) {
+    int solve(int row, int n, vector<string>& board) {
         if (row == n) {
-            result.push_back(board);
-            return;
+            return 1;
         }
-
+int cnt=0;
         // Try placing a queen in every column of the current row
         for (int col = 0; col < n; col++) {
             if (safe(row, col, n, board)) {
                 board[row][col] = 'Q';
-                solve(row + 1, n, board, result);
+              cnt+=  solve(row + 1, n, board);
                 board[row][col] = '.'; // Backtrack
             }
         }
+    return cnt;
     }
 
     int totalNQueens(int n) {
-         vector<vector<string>> result;
         vector<string> board(n, string(n, '.'));
-        solve(0, n, board, result);
-        int ans=result.size();
-        return ans;
+        return solve(0, n, board);
+        
     }
 };
