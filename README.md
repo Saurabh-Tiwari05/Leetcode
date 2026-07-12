@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1331-rank-transform-of-an-array](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0946-validate-stack-sequences) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
