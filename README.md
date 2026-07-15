@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -53,8 +54,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
