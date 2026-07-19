@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
