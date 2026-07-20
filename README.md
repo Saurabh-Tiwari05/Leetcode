@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
@@ -66,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
