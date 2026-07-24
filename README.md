@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0147-insertion-sort-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -92,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
