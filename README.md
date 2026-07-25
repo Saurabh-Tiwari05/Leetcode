@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0002-add-two-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
