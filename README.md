@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0052-n-queens-ii) |
+| [0113-path-sum-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0113-path-sum-ii) |
 ## Array
 |  |
 | ------- |
@@ -111,4 +112,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
