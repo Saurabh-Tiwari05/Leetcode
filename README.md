@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0143-reorder-list) |
+| [0897-increasing-order-search-tree](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -131,18 +132,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0113-path-sum-ii) |
+| [0897-increasing-order-search-tree](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0113-path-sum-ii) |
+| [0897-increasing-order-search-tree](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0113-path-sum-ii) |
+| [0897-increasing-order-search-tree](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0112-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
