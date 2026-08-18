@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0002-add-two-numbers) |
+| [0556-next-greater-element-iii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0556-next-greater-element-iii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0556-next-greater-element-iii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
