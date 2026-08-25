@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2454-next-greater-element-iv](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/2454-next-greater-element-iv) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
