@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
@@ -231,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0085-maximal-rectangle) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
