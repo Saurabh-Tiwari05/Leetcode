@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2454-next-greater-element-iv](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/2454-next-greater-element-iv) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2454-next-greater-element-iv](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/2454-next-greater-element-iv) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Number Theory
 |  |
 | ------- |
