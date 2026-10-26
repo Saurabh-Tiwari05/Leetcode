@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Number Theory
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Design
