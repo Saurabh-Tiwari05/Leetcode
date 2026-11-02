@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0435-non-overlapping-intervals](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0735-asteroid-collision) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0148-sort-list) |
+| [0435-non-overlapping-intervals](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1903-largest-odd-number-in-string](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Number Theory
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0435-non-overlapping-intervals](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Design
 |  |
 | ------- |
