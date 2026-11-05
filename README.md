@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Saurabh-Tiwari05/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
